@@ -29,11 +29,9 @@ This modpack is designed for both singleplayer and multiplayer, but shines brigh
 ## Community
 Join our vibrant community on Discord to connect with other players, share tips, and get support:
 
-[![][discord-placeholder]][discord-link]
+<a href="https://discord.gg/CzAwrA7Q84"><img src="./images/Discord-Logo-Blurple.png" alt="Discord Logo" width="150"></a>
 
-[discord-placeholder]: ./images/discord-logo.png
-[discord-link]: https://discord.gg/CzAwrA7Q84
+This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
+# Please share suggestions or bug reports via Discord or GitHub issues. 
 
-> **Note**: This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
-
-Please share suggestions or bug reports via Discord or GitHub issues.
+> **Note**: Our edited config files are free to use in other modpacks with proper respect to original mod authors. KubeJS scripts are allowed for use only with proper credits to our modpack (including link to our modpack on CurseForge and version of PMU that was code copied from).
