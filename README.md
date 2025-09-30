@@ -17,7 +17,7 @@ Welcome to a world of **Vanilla++ fun**! This modpack centers around building an
 - ... and many more mods waiting to be discovered!
 
 ## Installation
-To set up the Vanilla++ modpack locally:
+To set up the PMU modpack:
 
 1. **Download the modpack**:
    - Use a [CurseForge](https://www.curseforge.com/download/app) modpack launcher.
