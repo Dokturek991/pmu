@@ -1,5 +1,7 @@
 # Project Minecolonies United
 
+<a href="https://discord.gg/vE2h2zCSps"><img src="./images/logoS3.png" alt="PMU Link!" width="300"></a>
+
 ## Overview
 Welcome to a world of **Vanilla++ fun**! This modpack centers around building and managing your own colony with **Minecolonies**, enhanced by a brand-new **Quest system** that provides goals, guidance, and exciting challenges to keep you engaged from start to finish. Whether you play solo or team up with friends, Vanilla++ offers a rewarding adventure where you’ll hone your skills and carve out your place in the world.
 
@@ -29,7 +31,7 @@ This modpack is designed for both singleplayer and multiplayer, but shines brigh
 ## Community
 Join our vibrant community on Discord to connect with other players, share tips, and get support:
 
-<a href="https://discord.gg/CzAwrA7Q84"><img src="./images/Discord-Logo-Blurple.png" alt="Discord Logo" width="150"></a>
+<a href="https://discord.gg/vE2h2zCSps"><img src="./images/Discord-Logo-Blurple.png" alt="Discord Logo" width="150"></a>
 
 This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
 # Please share suggestions or bug reports via Discord or GitHub issues. 
