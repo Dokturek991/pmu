@@ -1,15 +1,7 @@
-# Vanilla++ Modpack
+# Project Minecolonies United
 
 ## Overview
 Welcome to a world of **Vanilla++ fun**! This modpack centers around building and managing your own colony with **Minecolonies**, enhanced by a brand-new **Quest system** that provides goals, guidance, and exciting challenges to keep you engaged from start to finish. Whether you play solo or team up with friends, Vanilla++ offers a rewarding adventure where you’ll hone your skills and carve out your place in the world.
-
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Minecolonies**: The core experience, letting you build and manage your own thriving colony.
@@ -26,20 +18,13 @@ Welcome to a world of **Vanilla++ fun**! This modpack centers around building an
 To set up the Vanilla++ modpack locally:
 
 1. **Download the modpack**:
-   - Use a modpack launcher like CurseForge or MultiMC.
-   - Search for **Vanilla++** and install the latest version.
-2. **Install dependencies**:
-   - Ensure you have the correct version of **Minecraft Forge** or **Fabric** (check modpack requirements).
-3. **Launch the game**:
-   - Select the Vanilla++ profile in your launcher and start playing!
+   - Use a [CurseForge](https://www.curseforge.com/download/app) modpack launcher.
+   - Download [PMU](https://www.curseforge.com/minecraft/modpacks/project-minecolonies-united) from CurseForge website or the launcher itself.
+2. **Launch the game**:
+   - To get whitelisted on our official server - join our Discord server below. If you intend to play on your own server, we have a server pack available to download using CurseForge.
 
 ## Usage
 This modpack is designed for both singleplayer and multiplayer, but shines brightest on a server with friends. For the best experience, join our official lag-free server to interact with our kind and helpful community.
-
-To play:
-1. Launch the modpack through your chosen launcher.
-2. Join the official server (details in the [Community](#community) section) or start a singleplayer world.
-3. Follow the **Quest system** to begin your adventure and build your colony!
 
 ## Community
 Join our vibrant community on Discord to connect with other players, share tips, and get support:
@@ -51,15 +36,4 @@ Join our vibrant community on Discord to connect with other players, share tips,
 
 > **Note**: This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
 
-## Contributing
-We welcome feedback and contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m 'Add feature or feedback'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request on GitHub.
-
 Please share suggestions or bug reports via Discord or GitHub issues.
-
-## License
-This modpack is distributed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
