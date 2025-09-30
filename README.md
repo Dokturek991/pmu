@@ -1,6 +1,6 @@
 # Project Minecolonies United
 
-<a href="https://discord.gg/vE2h2zCSps"><img src="./images/logoS3.png" alt="PMU Link!" width="300"></a>
+<a href="https://www.curseforge.com/minecraft/modpacks/project-minecolonies-united"><img src="./images/logoS3.png" alt="PMU Link!" width="500"></a>
 
 ## Overview
 Welcome to a world of **Vanilla++ fun**! This modpack centers around building and managing your own colony with **Minecolonies**, enhanced by a brand-new **Quest system** that provides goals, guidance, and exciting challenges to keep you engaged from start to finish. Whether you play solo or team up with friends, Vanilla++ offers a rewarding adventure where you’ll hone your skills and carve out your place in the world.
