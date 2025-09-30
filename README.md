@@ -31,7 +31,8 @@ This modpack is designed for both singleplayer and multiplayer, but shines brigh
 ## Community
 Join our vibrant community on Discord to connect with other players, share tips, and get support:
 
-<a href="https://discord.gg/vE2h2zCSps"><img src="./images/Discord-Logo-Blurple.png" alt="Discord Logo" width="150"></a>
+|You can also find us on Discord for help<br>or just to chat as well as Reddit|
+|<a href="https://discord.gg/vE2h2zCSps"><img src="./images/Discord-Logo-Blurple.png" alt="Discord Logo" width="150"></a>|
 
 This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
 # Please share suggestions or bug reports via Discord or GitHub issues. 
