@@ -286,12 +286,12 @@
 	#Rate of 0.01 is equal to a 1% interest rate.
 	#Range: 0.0 -> 1.0
 	#Default: 0.0
-	interest=0.001
+	interest=0.01
 	
 	#Whether interest applied to small amounts of money are guaranteed to give at least *some* money as long as there's money in the account.
 	#Example 1% interest applied to a bank account with only 1 copper coin will always give *at least* 1 copper coin.
 	#Default: true
-	forceInterest=false
+	forceInterest=true
 	
 	#Whether players will receive a personal notification whenever their bank account collects interest.
 	#Regardless of this value, the bank accounts logs will always display the interest interaction.
@@ -309,7 +309,7 @@
 	#365 days = 630720000 ticks
 	#Range: 1200 -> 630720000
 	#Default: 1728000
-	interestDelay=72000
+	interestDelay=12096000
 	
 	#A list of upper interest limits.
 	#Example:
@@ -415,13 +415,13 @@
 		#The price per claim chunk purchased.
 		#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 		#Default: "coin;1-lightmanscurrency:coin_gold"
-		claimPrice="coin;30-lightmanscurrency:coin_gold"
+		claimPrice="coin;1-lightmanscurrency:coin_gold"
 		
 		#The maximum number of extra claim chunks allowed to be purchased with this command.
 		#Note: This count includes extra claim chunks given to the player/team via normal FTB Chunks methods as well (if applicable).
 		#Range: 1 -> 2147483647
 		#Default: 1000000
-		maxClaimCount=2
+		maxClaimCount=500
 		
 		#Whether the `/lcclaims buy forceload` command will be accessible to players.
 		#Default: false
