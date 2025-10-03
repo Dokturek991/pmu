@@ -1,3 +1,6 @@
+// Made by the Project Minecolonies Developers – please don’t use, share, or modify in other modpacks without our permission.  
+// For questions or permissions, reach out to the Project Minecolonies team on Discord or Github.  
+
 PlayerEvents.loggedIn(event => {
     // Hardcoded rank arrays (add usernames here as players upgrade) - moved inside event to avoid global redeclaration
     const donators = ['LylenaEry','darky520'];
@@ -114,3 +117,6 @@ PlayerEvents.loggedIn(event => {
     // Single attempt after 200 ticks (10 seconds) delay
     event.server.scheduleInTicks(200, applyBonuses);
 });
+
+// Made by the Project Minecolonies Developers – please don’t use, share, or modify in other modpacks without our permission.  
+// For questions or permissions, reach out to the Project Minecolonies team on Discord or Github.  
