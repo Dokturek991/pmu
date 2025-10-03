@@ -1,6 +1,7 @@
 # FAQ 
 
 Q: **Hey, what is this? I can’t use vanilla tools!**
+
 A: That’s intentional. We wanted to try something different and encourage players to step outside their comfort zones 
    and the usual repetitive Minecraft start. Vanilla tools and armor are reserved for MineColonies colonists only. :)
 
