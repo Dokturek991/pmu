@@ -36,4 +36,4 @@ Join our vibrant community on Discord to connect with other players, share tips,
 This modpack is primarily designed for multiplayer to enhance interaction with others. While singleplayer is supported, the full experience comes alive on our server.
 ### Please share suggestions or bug reports via Discord or GitHub issues. 
 
-> **Note**: Our edited config files are free to use in other modpacks with proper respect to original mod authors. KubeJS scripts are allowed for use only with proper credits to our modpack (including link to our modpack on CurseForge and version of PMU that was code copied from).
+> **Note**: Our edited config files are free to use in other modpacks with proper respect to original mod authors. KubeJS scripts are allowed for use only with proper credits to our modpack (including link to our modpack on CurseForge and version of PMU that was code copied from) and proper permissions from our developers.
